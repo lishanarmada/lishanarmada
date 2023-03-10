@@ -1,0 +1,10 @@
+With the popularity of IoT technologies, security has become a significant concern.
+IDS is a crucial component that analyzes IoT network activity and categorizes it as either normal or abnormal due to susceptible attacks from hackers.
+An IDS safeguards a system's availability, integrity, and confidentiality. Because of resource constraints and algorithmic complexity, 
+traditional ML IDS have drawbacks when applied to IoT networks. A lightweight IoT IDS that is optimal, inexpensive, and can minimize the loss function 
+is necessary to create. So, to find the optimal model parameter values of the ML algorithm, hyperparameter tuning is performed by using population-based
+swarm algorithms. The swarm-based algorithms control the learning process to extract the ML algorithms' relevant parameters and ultimately learn.
+A comparative study between the proposed hyperparameter tuning and default parameters predictions is made. The experimental results confirmed that 
+the proposed approach effectively enhances the security of the IoT environment. This approach is evaluated and determined 
+to be promising on the MSCA benchmark IDS data set. Furthermore, the proposed approach achieves a good trade-off between
+effectiveness and efficiency with higher accuracy than default Tree based ML parameters.
